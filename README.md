@@ -5,3 +5,6 @@ I'm currently a PhD student on the [ACTIVmap](https://activmap.limos.fr) ANR pro
 ## ✉️ Get in touch
 * Email : [jeremy.kalsron@gmail.com](mailto:jeremy.kalsron@gmail.com)
 * Mastodon : [@jeremyk6@mamot.fr](https://mamot.fr/@jeremyk6)
+
+## 🔗 Links
+* [My resume](https://jeremyk6.github.io) (in french)
