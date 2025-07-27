@@ -8,4 +8,4 @@ Previously, I was a PhD student on the [ACTIVmap](https://activmap.limos.fr) ANR
 * Bluesky: [@jeremyk6.anatidaepho.be](https://bsky.app/profile/jeremyk6.anatidaepho.be)
 
 ## 🔗 Links
-* [My resume](https://jeremyk6.github.io) (in french)
+* [My resume](https://jeremyk6.github.io/cv) (in french)
